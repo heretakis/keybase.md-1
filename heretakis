@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am heretakis on github.
+  * I am heretakis (https://keybase.io/heretakis) on keybase.
+  * I have a public key ASABXfwhdSul_Ti_WVuNa2XT-jMD6_zft-lmTTgSmQS1qAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120015dfc21752ba5fd38bf595b8d6b65d3fa3303ebfcdfb7e9664d38129904b5a80a",
+      "host": "keybase.io",
+      "kid": "0120015dfc21752ba5fd38bf595b8d6b65d3fa3303ebfcdfb7e9664d38129904b5a80a",
+      "uid": "5a0798bda977cbeac48d19e1d79e2219",
+      "username": "heretakis"
+    },
+    "merkle_root": {
+      "ctime": 1588943956,
+      "hash": "724f1cc5fb6ffb57f1ade157094f0cff7b344f673e71e7c58b91a0de2fd0c96318a966a3f20421d5734f6506c8eeac4ab74af6704f7f227b6504cf9c37ccd8aa",
+      "hash_meta": "747c0c336c92e259167ec5e99d608652248e89daba891f208b096bbd5ba83c86",
+      "seqno": 16213513
+    },
+    "service": {
+      "entropy": "k5R55Z453VPX+vQsqIGwz1Ep",
+      "name": "github",
+      "username": "heretakis"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.4.1"
+  },
+  "ctime": 1588944020,
+  "expire_in": 504576000,
+  "prev": "6fe7a972794fbc968cf6982ff8cc6734e7ff305dd66ac6e6509f64665aafeaf8",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASABXfwhdSul_Ti_WVuNa2XT-jMD6_zft-lmTTgSmQS1qAo](https://keybase.io/heretakis), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgAV38IXUrpf04v1lbjWtl0/ozA+v837fpZk04EpkEtagKp3BheWxvYWTESpcCBcQgb+epcnlPvJaM9pgv+MxnNOf/MF3WasbmUJ9kZlqv6vjEII0D1DzlFd0M5b+6ksOxIVD+tCeXAUNfKWsZ6JMJvSybAgHCo3NpZ8RAn8pDjRRkmmF7i27CMCumiPfQE8wawRTDX7V8nZ/F3nxm1FSEEioJf/m30RnjVWk+8VwR/2E8HdazcuWnqEn0CahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKBk6qGicc5KRm0pq+EQHV7JMdPQyf7ak/1trlR5Cd68o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/heretakis
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id heretakis
+```
